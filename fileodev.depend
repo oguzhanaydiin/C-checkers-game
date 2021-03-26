@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588355209 source:c:\users\oguuz\desktop\fileodev\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
